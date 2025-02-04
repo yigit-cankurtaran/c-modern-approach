@@ -2,4 +2,5 @@
 
 int main() {
     printf("testing git");
+    printf("i got an error");
 }
